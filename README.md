@@ -1,6 +1,6 @@
 # Olá, Luis Roberto
 
-```Python
+```python
 class Programmer
 
 	def initialize() 
@@ -101,8 +101,7 @@ class Programmer
         <a href="https://stackshare.io/redis" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" /></a>
     </p>
 <figure>
-	<embed src="https://wakatime.com/share/@marcodotcastro/7cd3cbfb-1783-43d5-9708-4d309157fe7a.svg"></embed></figure>
-```ruby 
+```python 
 	end 
 end 
 ```

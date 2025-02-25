@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Atualmente estou trabalhando como vendedor, mas estou em transição de carreria, estudando python para trabalhar como Data Sciense.
+  Atualmente estou trabalhando como vendedor, mas estou em transição de carreria, estudando python para trabalhar como Data Sciense. Completei o curso de Lógica de programação pelo canal Curso em vídeo
 </p>
 
 <p align="left">
